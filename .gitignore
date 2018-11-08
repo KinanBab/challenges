@@ -1,0 +1,4 @@
+*.class
+*.pyc
+a.out
+*.o
