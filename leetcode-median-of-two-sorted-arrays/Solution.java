@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/median-of-two-sorted-arrays/
+
 class Solution {
     public int myBinarySearch(int[] nums1, int[] nums2, int start, int end) { 
         while(!(start == end || start >= nums1.length)) {
